@@ -1,5 +1,6 @@
 # Project task images
 
-Screenshots referenced from task board imports.
+Screenshots and files referenced from task board imports.
 
-- `otas-vt-vuelitos/`: OTAs-VT Vuelitos (feedback list from Luis, 29 Oct 2026)
+- `otas-vt-vuelitos/`: OTAs-VT Vuelitos task screenshots
+- `otas-vt-vuelitos/giveaway-landing/`: giveaway landing page files (contact number and address replaced with placeholders)
